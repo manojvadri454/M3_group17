@@ -10,6 +10,7 @@ This Project is an BiCom System, and is designed to remotely know the statues of
 4. Door Status
 
 # SWOT
+![swot](https://user-images.githubusercontent.com/46933088/157812492-94d2c31f-7f45-4c6f-9c1e-dac8a0d1755c.jpg)
 
 # 4W's and 1'H
 ## Who

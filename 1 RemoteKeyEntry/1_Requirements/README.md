@@ -12,3 +12,5 @@ An RKE is some kind of an electronic lock which is alternative to using a tradit
 ## SWOT Analysis
 ![m32](https://user-images.githubusercontent.com/98951784/157824684-cd60f6f8-46f6-4ee0-b932-29552117b292.png)
 
+## 5W's 1H
+

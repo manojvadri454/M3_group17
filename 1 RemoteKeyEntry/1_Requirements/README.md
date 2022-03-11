@@ -8,3 +8,7 @@ An RKE is some kind of an electronic lock which is alternative to using a tradit
 - Unlocks the car
 - Contains anti-theft system to prevent theives from intercepting and spoofing the telegrams
 - Better Security
+
+## SWOT Analysis
+![m31](https://user-images.githubusercontent.com/98951784/157824457-66382d68-265f-4832-b125-612de5976141.png)
+

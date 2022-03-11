@@ -12,7 +12,7 @@ This Project is an BiCom System, and is designed to remotely know the statues of
 # SWOT
 ![swot](https://user-images.githubusercontent.com/46933088/157812492-94d2c31f-7f45-4c6f-9c1e-dac8a0d1755c.jpg)
 
-# 4W's and 1'H
+# 5W's and 1'H
 ## Who
 ### User who wants to know Status Remotely.
 
@@ -25,6 +25,8 @@ This Project is an BiCom System, and is designed to remotely know the statues of
 ## Where
 ### When User is away/inside the car.
 
+## Why
+### To know the status of features of the car.
 ## How
 ### Using Blue switch by blinking the LED's to known status of window,alaram, Battery, Door.
 
